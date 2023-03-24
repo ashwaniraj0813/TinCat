@@ -146,11 +146,12 @@ h1{
 .end{
     margin-top: 1.2%;
 }
-@media(max-width:1020px){
+@media(max-width:1024px){
     #tittle{
-        text-align:center;
+        text-align: center;
     }
     .profile{
-        position:static;
-        transform:rotate(0deg);
+        position: static;
+        transform: rotate(0deg);
     }
+}
